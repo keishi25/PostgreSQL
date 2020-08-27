@@ -1,5 +1,7 @@
 # PostgeSQL
-コマンド
+https://www.dbonline.jp/postgresql/connect/index2.html
+
+# コマンド
 
 teminal上で
 $psql -h localhost -p 5432 -U postgres -d postgres

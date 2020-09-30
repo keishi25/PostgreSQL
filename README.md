@@ -11,6 +11,9 @@ $psql -h ホスト名 -p ポート番号 -U ロール名 -d データベース�
 posgreの操作</br>
 $psql
 
+DB一覧表示
+postgres=#\l
+
 テーブル一覧表示  
 postgres=#\dt
 
